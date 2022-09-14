@@ -214,8 +214,15 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  /*color: #7a7a7a;*/
   border-left: .25rem solid #e5e5e5;
+
+  color: #717171;             /*Herman*/
+  background-color: #f9f9f9;  /*Herman*/
+}
+/*Herman*/
+blockquote strong {
+  color: #717171;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -230,8 +237,16 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  /*margin: 0 0 1rem;*/
+  margin: 0 auto; /*Herman*/
   border-radius: 5px;
+}
+/*Herman*/
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 85%;
+  color: 717171;
 }
 
 /* Tables */

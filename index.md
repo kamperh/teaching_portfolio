@@ -4,7 +4,6 @@ title: Teaching Experience
 exclude: true
 order: 0
 ---
----
 
 <!-- # Teaching experience -->
 
