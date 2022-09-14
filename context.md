@@ -5,7 +5,7 @@ sidebar_title: Context
 order: 2
 ---
 
-## Teaching in Stellenbosch, South Africa, Africa, the world
+### Teaching in Stellenbosch, South Africa, Africa, the world
 
 I teach at one of the top institutions in Africa. But even here in our relatively wealthy town, we can see the socio-economic challenges facing South Africa and the rest of the continent: inequality, illiteracy, and limitations in access to education. Globally, we will increasingly be faced with the problems of climate change and sustainable energy generation. While I don't have all the answers, I try to show the students how the knowledge they acquire can be used to better understand and address these challenges. As an example, in one of my [DatA414 lectures](https://youtu.be/zu34zcyAFzU?t=80), we look at how the percentage of households with low socioeconomic status in a neighbourhood affects median house prices. As another example, for the 2020 DatA414 course project, students had to develop and implement a model to predict future wind speeds based on past measurements. By showing students the relevance of what they are learning, I hope to create excitement about the material, leading to engagement (Teaching Philosophy, sub-goal 1).
 
@@ -20,7 +20,7 @@ The move from classroom to online teaching has also presented a great opportunit
 
 <!-- > *Ek is tans 'n CS 315-student en ek kan jou nie genoeg bedank vir die wonderlike inhoud wat jy so openlik deel op GitHub en Youtube nie, dit help regtig baie. Dis amazing hoe jy sulke ingewikkelde onderwerpe op 'n verstaanbare manier kan verduidelik!* -->
 
-## Students at Stellenbosch
+### Students at Stellenbosch
 
 #### Undergraduate students
 
@@ -31,3 +31,7 @@ As part of my Teaching Philosophy (sub-goal 1), I believe it is important to mak
 #### Final-year and postgraduate students
 
 I have co-supervised and worked with master's students at the University of Edinburgh and the University of Chicago. When I started at Stellenbosch in 2017, I was amazed to find that our final-year and postgraduate students are on par or better than many of the students at these international institutions. Often, instead of giving explicit instructions, my role is simply to remove barriers for these students, just making sure there isn't anything prohibiting them to learn and proceed on their own. I.e., I'm really just [handing them a wand](???). 
+
+### References
+
+S. Badat, "The role of higher education in society: Valuing higher education," *HERS-SA Academy*, 2009.
