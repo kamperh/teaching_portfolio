@@ -1,34 +1,31 @@
 # Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
-
 # Permalinks
-permalink:        pretty
-# relative_permalinks: true
+
 
 # Setup
 title:            'Teaching Portfolio'
-# tagline:          'A Jekyll theme'
+tagline:          'My teaching philosophy'
 description:      'Herman Kamper'
-# url:              http://hyde.getpoole.com
 url:              'https://www.kamperh.com/teaching_portfolio'
 # url:                 http://localhost:4000
 baseurl:          ''
-# baseurl:          /
+paginate:         5
+permalink:        pretty
 
+# Details
 author:
   name:           'Herman Kamper'
   url:            'https://www.kamperh.com'
-
-paginate:         5
-
-# Custom vars
-# version:          2.1.0
-
-# github:
-#   repo:           https://github.com/poole/hyde
 
 # Gems
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+# markdown:         redcarpet
+# highlighter:      pygments
+# relative_permalinks: true
+# tagline:          'A Jekyll theme'
+# version:          2.1.0
+# github:
+#   repo:           https://github.com/poole/hyde
