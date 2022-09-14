@@ -10,12 +10,15 @@ permalink:        pretty
 title:            'Teaching Portfolio'
 # tagline:          'A Jekyll theme'
 description:      'Herman Kamper'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# url:              http://hyde.getpoole.com
+url:              'https://www.kamperh.com/teaching_portfolio'
+# url:                 http://localhost:4000
+baseurl:          ''
+# baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Herman Kamper'
+  url:            'https://www.kamperh.com'
 
 paginate:         5
 
