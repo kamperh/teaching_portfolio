@@ -249,6 +249,12 @@ img + em {
   color: 717171;
 }
 
+/* Herman */
+sup {
+  vertical-align: top;
+  font-size: 75%;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
