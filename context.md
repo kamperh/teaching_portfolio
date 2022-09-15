@@ -30,7 +30,7 @@ As part of my [Teaching Philosophy]({{site.url}}/philosophy/) (sub-goal 1), I be
 
 #### Final-year and postgraduate students
 
-I have co-supervised and worked with master's students at the University of Edinburgh and the University of Chicago. When I started at Stellenbosch in 2017, I was amazed to find that our final-year and postgraduate students are on par or better than many of the students at these international institutions. Often, instead of giving explicit instructions, my role is simply to remove barriers for these students, just making sure there isn't anything prohibiting them to learn and proceed on their own. I.e., I'm really just [handing them a wand](???). 
+I have co-supervised and worked with master's students at the University of Edinburgh and the University of Chicago. When I started at Stellenbosch in 2017, I was amazed to find that our final-year and postgraduate students are on par or better than many of the students at these international institutions. Often, instead of giving explicit instructions, my role is simply to remove barriers for these students, just making sure there isn't anything prohibiting them to learn and proceed on their own. I.e., I'm really just [handing them a wand]({{site.url}}/knowledge#postgraduate-supervision-a-wand-dispenser). 
 
 ### References
 

@@ -17,9 +17,6 @@ During my PhD, I tutored students at the University of Edinburgh. A crucial less
 
 After my postdoc in Chicago, I returned to Stellenbosch. The first course I taught was CP143. CP143 has four lecturers and relies on a common set of slides. I realized early on that just flipping through slides is a guaranteed way of getting students to fall asleep. After watching [lectures from Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8), I decided to rather work predominantly on the blackboard. Having to write things out forces students to engage and learn actively. I still use slides, but only selectively. Slides and writing on the blackboard would be interleaved with me writing computer programs on the fly to solve example problems. This combination of technologies provides a multimodal form of learning but also forces students to look at their own handwriting afterwards and make the content their own.
 
-![]({{site.url}}/fig/dtw_video.png)
-*On the left, I am explaining (in writing) the underlying concepts of the code shown on the right. [Full video](https://youtu.be/X6phfLqN5pY?t=90).*
-
 Taking the above together, one of my students succinctly captured the core of my in-classroom teaching strategy in a feedback form:
 
 > *Enthusiasm, class participation/engagement, combination of slides+blackboard, music/demos in Python.* --- Aspects of the lecturer that should be maintained, SS414 feedback, 2018.
@@ -28,6 +25,8 @@ Taking the above together, one of my students succinctly captured the core of my
 
 This strategy of working on the board, interleaved with selected slides, and live programming/demos is a model I continued to use for lectures. I had to adapt this strategy when we moved to online teaching in DatA414. With practice, it was relatively easy to use a partially populated slide and fill in the rest of the content in writing on a tablet [as a video progresses](https://youtu.be/L5-lxSGO9bM?t=275). Incorporating demos was much harder for me, but I think this is important, and so I have been doing this in my more [recent lecture videos](https://youtu.be/PPmNYwVbcts?t=40). ([This blog post](https://www.weaklysupervised.com/2021/01/15/why-lecture-videos/) describes in detail how I make my videos.)
 
+![]({{site.url}}/fig/dtw_video.png)
+*On the left, I am explaining (in writing) the underlying concepts of the code shown on the right. [Full video](https://youtu.be/X6phfLqN5pY?t=90).*
 
 > *The handwritten notes that supplemented the text content made the slides much easier to follow and
 "friendlier". Also the graphs and figures are a nice touch and tie the content together well. The student
@@ -36,10 +35,11 @@ the content was not presented monotonously, with lots of examples and demonstrat
 lot easier to stay focused and engaged in the lecture videos. Lastly, the length of the lecture videos was
 amazing. They hit the sweet-spot of profundity vs. attention-span.* --- DatA414 course feedback, 2021.
 
-I attended PREDAC in 2021. This gave me a way to talk about and improve things that I have been intuitively doing. In 2019 I had to develop and write the Form-Bs for the registration of two new courses: DatA414 (which I then also taught for the first time in 2020) and Foundations of Deep Learning 344. Going back to these forms, I see now that I tried to structure these courses around threshold concepts (see Knowledge), despite not being aware of what this idea was called at the time. When I had to develop the new NLP817 course for the [Structured MSc in Machine Learning and AI](https://mlai.sun.ac.za/),[^1] I immediately started building the curriculum around the threshold concepts.
+I attended PREDAC in 2021. This gave me a way to talk about and improve things that I have been intuitively doing. In 2019 I had to develop and write the Form-Bs for the registration of two new courses: DatA414 (which I then also taught for the first time in 2020) and Foundations of Deep Learning 344. Going back to these forms, I see now that I tried to structure these courses around threshold concepts (see [Knowledge]({{site.url}}/knowledge/)), despite not being aware of what this idea was called at the time. When I had to develop the new NLP817 course for the [Structured MSc in Machine Learning and AI](https://mlai.sun.ac.za/),[^1] I immediately started building the curriculum around the threshold concepts.
 
-I also relied heavily on another tool that I learned during PREDAC. This tool, which I learned from Dr Karin Wolff, is the *semantic plane* (Wolff et al., 2022). I myself learn best by starting with the big picture and then moving down to the more abstract fundamental concepts---and I think many students learn best in this way as well. The mistake I used to make is starting at the high level and then moving to the abstract fundamental principle, but then I won't return and tie back the principle to the bigger picture! This is called a semantic escalator (Maton, 2013). What I am increasingly doing now is moving towards a semantic wave profile: tying the abstract back to the concrete as you proceed through a lecture. I recently redesigned the first DatA414 lecture to deliberately move over the semantic plane, as illustrated below.
+I also relied heavily on another tool that I learned during PREDAC. This tool, which I learned from Karin Wolff, is the *semantic plane* (Wolff et al., 2022). I myself learn best by starting with the big picture and then moving down to the more abstract fundamental concepts---and I think many students learn best in this way as well. The mistake I used to make is starting at the high level and then moving to the abstract fundamental principle, but then I won't return and tie back the principle to the bigger picture! This is called a semantic escalator (Maton, 2013). What I am increasingly doing now is moving towards a semantic wave profile: tying the abstract back to the concrete as you proceed through a lecture. I recently redesigned the first DatA414 lecture to deliberately move over the semantic plane, as illustrated below.
 
+![]({{site.url}}/fig/semantic_plane.png)
 *The semantic plane moves from simple to complex on the x-axis, and from concrete to abstract on the y-axis. The figure illustrates how I use the plane to navigate through a lecture on simple linear regression. I start and end in the complex-concrete quadrant, moving roughly clockwise through the quadrants, but still referring back to previous quadrants as I move around.*
 
 #### After COVID
@@ -56,7 +56,15 @@ My own research is in the area of machine learning. One area where I aim to grow
 
 ### References
 
+T. Hall and H. Kamper, "Towards improving human arithmetic learning using machine learning," *PRASA*, 2020.
+
+H. Kamper, "Automatic machine translation of engineering assessments: Data collection for a pilot study," *SoTL (in submission)*, 2022.
+
 A. N. Kioko, R. W. Ndung’u, M. C. Njoroge, and J. Mutiga, "Mother tongue and education in Africa: Publicising the reality," *Multilingual Education*, 2014.
+
+K. Maton, "Making semantic waves: A key to cumulative knowledge-building," *Linguistics and Education*, 2013.
+
+Stellenbosch University, "Revision of language policy," [*Online*](http://www.sun.ac.za/english/Pages/Language.aspx), 2021.
 
 K. Wolff, K. Kruger, R. Pott, and N. de Koker, "The conceptual nuances of technology-supported learning in engineering," *European Journal of Engineering Education*, 2022.
 
