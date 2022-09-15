@@ -17,7 +17,7 @@ During my PhD, I tutored students at the University of Edinburgh. A crucial less
 
 After my postdoc in Chicago, I returned to Stellenbosch. The first course I taught was CP143. CP143 has four lecturers and relies on a common set of slides. I realized early on that just flipping through slides is a guaranteed way of getting students to fall asleep. After watching [lectures from Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8), I decided to rather work predominantly on the blackboard. Having to write things out forces students to engage and learn actively. I still use slides, but only selectively. Slides and writing on the blackboard would be interleaved with me writing computer programs on the fly to solve example problems. This combination of technologies provides a multimodal form of learning but also forces students to look at their own handwriting afterwards and make the content their own.
 
-![](/fig/dtw_video.png)
+![]({{site.url}}/fig/dtw_video.png)
 *On the left, I am explaining (in writing) the underlying concepts of the code shown on the right. [Full video](https://youtu.be/X6phfLqN5pY?t=90).*
 
 Taking the above together, one of my students succinctly captured the core of my in-classroom teaching strategy in a feedback form:

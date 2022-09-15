@@ -19,7 +19,7 @@ I think  it is essential to identify and construct a curriculum around these con
 
 While assessing the 2020 DatA414 projects, used as a formative assessment during the term, I realized that most students didn't grasp the threshold concept of one-hot feature representations: many students thought you could use it exactly the same way whether it was used to represent the input or the output of a machine learning model. One reason why this happened was that the concept popped up at very different points in the course, e.g. I spoke about input and output representations in disjoint lectures. To address this, I simply reordered my lectures in 2021 to make it possible to have [one lecture](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) where I unpack one-hot representations specifically, highlighting it as a threshold concept. This also shows the importance of giving and pointing students to good resources (Teaching Philosophy, sub-goal 3).
 
-![](/fig/20220518_075838.jpg)
+![]({{site.url}}/fig/20220518_075838.jpg)
 *Building the NLP817 course around threshold concepts in 2022. I write out the threshold concepts on post-it notes and then arrange them to get the overall structure of the course (or lecture) before starting to create the content.*
 
 ### Giving the bigger picture
@@ -36,7 +36,7 @@ In postgraduate supervision, I really like to think of myself using an analogy f
 
 A little more formally, in *The Structure of Scientific Revolutions*, Kuhn (1962, 2012) gives a philosophy of (scientific) research: he comes up with the idea that we are all working in a particular paradigm, and our goal as researchers in this paradigm is to solve (meaningful) puzzles (until a shift happens). Kuhn also gives a direct application to teaching: we should equip students to be able to solve puzzles. Badat (2009) states this as a core role of the university: "Our task is not simply the dissemination of knowledge to students but also the induction of our students into the making of knowledge."
 
-![](/fig/wands.jpeg)
+![]({{site.url}}/fig/wands.jpeg)
 *I see my role as a postgraduate supervisor as a Wand Dispenser.*
 
 So how do I equip students (give wands) in order to solve puzzles (do magic)? My main strategy is to give postgraduate students enough freedom to learn, explore, and ask questions of their own, while at the same time nudging them so that they continue to make progress towards their goals. I follow the three sub-goals of my Teaching Philosophy. One slight difference from undergraduate teaching is in sub-goal 3. In undergraduate courses, I would curate and point students to resources directly. In contrast, in postgraduate studies, I think the skill of figuring out where to find resources and whether it is worth working through them is essential in becoming a contributor to knowledge and a lifelong learner.
