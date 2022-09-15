@@ -22,7 +22,7 @@ This teaching mission statement is based in part on (Case, 2019) and (Brunton, 2
 
 Excitement leads to engagement which leads to active learning, where a student makes the work their own. Without being excited, students won't be motivated to engage with the material. I [use humour](https://youtu.be/DW5C3eqAFQM?t=30) to keep the class awake and make myself approachable. I share my own passion for the work. I interleave slides with writing on the blackboard or a tablet. And I try to show practical demos and examples to spark an interest, e.g. demos using language and music (see Students).
 
-![](/fig/g_major_python.png)
+![]({{site.url}}/fig/g_major_python.png)
 *An in-class Python demo from SS414 where we are analysing music. Here we are considering the spectrum of a G-major guitar chord. Students can interactively listen and analyse different guitar chords.*
 
 ### 2. Give students the lay of the land, so that they have the bigger picture
