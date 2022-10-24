@@ -37,7 +37,7 @@ amazing. They hit the sweet-spot of profundity vs. attention-span.* --- DatA414 
 
 I attended PREDAC in 2021. This gave me a way to talk about and improve things that I have been intuitively doing. In 2019 I had to develop and write the Form-Bs for the registration of two new courses: DatA414 (which I then also taught for the first time in 2020) and Foundations of Deep Learning 344. Going back to these forms, I see now that I tried to structure these courses around threshold concepts (see [Knowledge]({{site.url}}/knowledge/)), despite not being aware of what this idea was called at the time. When I had to develop the new NLP817 course for the [Structured MSc in Machine Learning and AI](https://mlai.sun.ac.za/),[^1] I immediately started building the curriculum around the threshold concepts.
 
-I also relied heavily on another tool that I learned during PREDAC. This tool, which I learned from Karin Wolff, is the *semantic plane* (Wolff et al., 2022). I myself learn best by starting with the big picture and then moving down to the more abstract fundamental concepts---and I think many students learn best in this way as well. The mistake I used to make is starting at the high level and then moving to the abstract fundamental principle, but then I won't return and tie back the principle to the bigger picture! This is called a semantic escalator (Maton, 2013). What I am increasingly doing now is moving towards a semantic wave profile: tying the abstract back to the concrete as you proceed through a lecture. I recently redesigned the first DatA414 lecture to deliberately move over the semantic plane, as illustrated below.
+I also relied heavily on another tool that I learned during PREDAC. This tool, which I learned from Karin Wolff, is the *semantic plane* (Wolff et al., 2022). I myself learn best by starting with the big picture and then moving down to the more abstract fundamental concepts---and I think many students learn best in this way as well. The mistake I used to make is starting at the high level and then moving to the abstract fundamental principle, but then I won't return and tie back the principle to the bigger picture! This is called a semantic escalator (Maton, 2013). What I am increasingly doing now is moving towards a semantic wave profile: tying the abstract back to the concrete as you proceed through a lecture. I recently redesigned the first DatA414 lecture to deliberately move over the semantic plane, as illustrated below. All these observations from PREDAC also formed the basis for my contribution to our poster presentation at SoTL 2021 ([Bredell et al., 2021]({{site.url}}/evidence/)).
 
 ![]({{site.url}}/fig/semantic_plane.png)
 *The semantic plane moves from simple to complex on the x-axis, and from concrete to abstract on the y-axis. The figure illustrates how I use the plane to navigate through a lecture on simple linear regression. I start and end in the complex-concrete quadrant, moving roughly clockwise through the quadrants, but still referring back to previous quadrants as I move around.*
@@ -46,9 +46,12 @@ I also relied heavily on another tool that I learned during PREDAC. This tool, w
 
 At the beginning of 2022 I had to develop the new NLP817 course. This was also the first time that I would teach "post-COVID", with a return to face-to-face lectures. Building on both pre- and post-COVID teaching experiences, I wanted to figure out an in-class-room teaching strategy that I could use going forward in the longer term. What I did was to go way back: I wrote out how each of my favourite lecturers in under- and postgraduate courses taught. There were ten lecturers. Only one made exclusive use of slides. Two made exclusive use of the blackboard. The remaining seven all used a hybrid approach, with one variant that I particularly liked: using partially completed notes and then filling them out during the lecture. This is exactly what I did during COVID, but I didn't realize that I could do the same in in-person lectures (until doing this analysis). The value is that you can populate notes sparsely so that you don't have to write out everything (saving time in class) but then you still require students to fill in blanked-out portions (making the notes their own). This was the model I settled on for NLP817, and you can have a look at an example of an in-person recording [here](https://youtu.be/BSSoEtv5jvQ?t=510). I still think I am relying too much on the notes and can blank out even more content, but I think this is a good start, and plan to use this method going forward.
 
+As [evidence]({{site.url}}/evidence/) of my growth since joining Stellenbosch, I include feedback and testimonials from students, peer evaluations from colleagues, and a Certificate of Recognition for teaching.
+
+
 ### ML4Ed: Machine learning for education
 
-My own research is in the area of machine learning. One area where I aim to grow further is how to apply machine learning in education. I describe two recent efforts.
+My own research is in the area of machine learning. One area where I aim to grow further is how to apply machine learning in education, which I believe is one direct way to do impactful research (Stellenbosch University, 2019). I describe two recent efforts.
 
 #### E-learning for improving human arithmetic
 
@@ -56,17 +59,21 @@ In a conference paper (Hall and Kamper, 2020), we did initial work towards the b
 
 #### Automatic machine translation of English engineering assessments into Afrikaans
 
-The Language Policy of Stellenbosch University (2021) aims to promote multilingualism. In practice, this means that "[q]uestion papers in undergraduate modules are available in Afrikaans and English." While this is noble given the benefits of mother tongue education (Kioko et al., 2014), this places a major burden on already overloaded lecturers. In engineering, many lectures therefore turn to Google Translate to provide a first-pass translation. But these automatic translations often lack the required vocabulary to cover engineering concepts. This project has the broader goal of building a machine translation system specifically for the engineering education domain. In a pilot study, I collected a small corpus of roughly 800 parallel English-Afrikaans sentences from previous assessments in E&E. We are currently building and evaluating initial machine translation systems on this data (Kamper, 2022).
+The Language Policy of Stellenbosch University (2021) aims to promote multilingualism. In practice, this means that "[q]uestion papers in undergraduate modules are available in Afrikaans and English." While this is noble given the benefits of mother tongue education (Kioko et al., 2014), this places a major burden on already overloaded lecturers. In engineering, many lectures therefore turn to Google Translate to provide a first-pass translation. But these automatic translations often lack the required vocabulary to cover engineering concepts. This project has the broader goal of building a machine translation system specifically for the engineering education domain. In a pilot study, I collected a small corpus of roughly 800 parallel English-Afrikaans sentences from previous assessments in E&E. We are currently building and evaluating initial machine translation systems on this data, and I recently presented this work at SoTL 2022 ([Kamper, 2022]({{site.url}}/evidence/)).
 
 ### References
 
+J. R. Bredell, E. Burger, H. Kamper, and H. Pretorius, "Individual and collaborative reflections on teaching and learning," *SoTL*, 2021.
+
 T. Hall and H. Kamper, "Towards improving human arithmetic learning using machine learning," *PRASA*, 2020.
 
-H. Kamper, "Automatic machine translation of engineering assessments: Data collection for a pilot study," *SoTL (in submission)*, 2022.
+H. Kamper, "Machine translation of engineering assessments: Data collection for a pilot study," *SoTL*, 2022.
 
 A. N. Kioko, R. W. Ndung’u, M. C. Njoroge, and J. Mutiga, "Mother tongue and education in Africa: Publicising the reality," *Multilingual Education*, 2014.
 
 K. Maton, "Making semantic waves: A key to cumulative knowledge-building," *Linguistics and Education*, 2013.
+
+Stellenbosch University, "Vision 2040 and strategic framework 2019--2024," [*Online*](http://www.sun.ac.za/english/about-us/strategic-documents), 2019.
 
 Stellenbosch University, "Revision of language policy," [*Online*](http://www.sun.ac.za/english/Pages/Language.aspx), 2021.
 

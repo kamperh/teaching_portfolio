@@ -37,6 +37,8 @@ Equipped with the lay of the land, students need to be able to build up the deta
 
 At a postgraduate level, we have an even more direct way to mentor students to become lifelong learners. For these students, it is even more important to learn how to find and navigate resources themselves in order to identify and acquire threshold concepts on their own. This I try to do by example even more (e.g. in journal reading groups with my students), only providing light guidance when needed. To borrow from [Johan Fourie](https://www.johanfourie.com/teaching/), I see myself as a [Wand Dispenser]({{site.url}}/knowledge#postgraduate-supervision-a-wand-dispenser): I provide the wizards of the future (research students) with the appropriate wands (skills, tools) in order to do magic of their own (research, exploration). (See more under [Students]({{site.url}}/context#students-at-stellenbosch) and [Knowledge]({{site.url}}/knowledge/).)
 
+Through these three sub-goals, I hope to contribute to a transformative experience for students at Stellenbosch University, where each student will be enabled to grow uniquely and reach their full potential (Stellenbosch University, 2019).
+
 
 ### References
 
@@ -47,3 +49,5 @@ J. M. Case, "A third approach beyond the false dichotomy between teacher- and st
 J. H. F. Meyer and R. Land, "Threshold concepts and troublesome knowledge: Linkages to ways of thinking and practising," *Improving Student Learning -- Theory and Practice Ten Years On*, 2003.
 
 D. D. Pratt, *Five Perspectives on Teaching in Adult and Higher Education*, Krieger Publishing Co., 1998.
+
+Stellenbosch University, "Vision 2040 and strategic framework 2019--2024," [*Online*](http://www.sun.ac.za/english/about-us/strategic-documents), 2019.
