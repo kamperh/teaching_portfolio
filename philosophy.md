@@ -8,6 +8,8 @@ order: 1
 
 <!-- # Teaching philosophy -->
 
+I am updating this now.
+
 > **My goal:** I aim to enable students to grasp the threshold concepts in my course, and to learn the skills through which these concepts are applied to solve real problems.
 > 
 > **How do I accomplish this?** I define three sub-goals:
