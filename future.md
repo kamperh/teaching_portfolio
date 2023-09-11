@@ -14,7 +14,7 @@ In the last year, I have realised that my three goals of teaching ([Teaching Phi
 
 Despite my optimism about the use of AI in our high-demand society (see [Context]({{site.url}}/context/)), there are still major challenges. We will have to strategise about how best to teach these tools in our undergraduate courses, how to best encourage postgraduate students to use these tools for writing, and how to use these tools to accelerate research---while conveying that accountability remains a core principle.
 
-In my own courses, I will also have to increasingly show the ethical pitfalls of blindly using machine learning. I am already doing this, e.g. in the in-class DatA414 lecture [on house price prediction](https://youtu.be/zu34zcyAFzU?t=80), we talk about the possibility that some of the input variables might correlate with race, and the ethics of using such features for predicting insurance premiums.
+In my own courses, I will also have to increasingly show the ethical pitfalls of blindly using machine learning. I am already doing this, e.g. in the in-class DatA414 lecture [on house price prediction](https://youtu.be/zu34zcyAFzU?t=80), we talk about the possibility that some of the input variables might correlate with race, \ and the implications of using such models for setting insurance premiums.
 
 Finally, I think there will also be a challenges in convincing the university (and larger society) of the broad potential benefits of AI. There is a lot of fear and uncertainty, but this should not stop us from embracing these tools for what they are (and not more).
 

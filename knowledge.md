@@ -10,7 +10,7 @@ I briefly unpack some of the details around my teaching philosophy and teaching 
 
 ### Threshold concepts
 
-The undergraduate courses I teach involve a combination of applied mathematics and programming. In most of my courses there are threshold concepts (Meyer and Land, 2003) that students need to grasp. These are more than just "key" or "important" concepts: a threshold concept really changes the way a student thinks about a field, it allows a student to tie together concepts in new ways, and it helps students to identify the boundaries of a conceptual area within a course. These concepts are also often troublesome for students to acquire. But they are also hard to unlearn: once grasped, they stick (Flanagan, 2020).
+The undergraduate courses I teach involve a combination of applied mathematics and programming. These courses have threshold concepts (Meyer and Land, 2003) that students need to grasp. These are more than just "key" or "important" concepts: a threshold concept really changes the way a student thinks about a field, it allows a student to tie together concepts in new ways, and it helps students to identify the boundaries of a conceptual area within a course. These concepts are also often troublesome for students to acquire. But they are also hard to unlearn: once grasped, they stick (Flanagan, 2020).
 
 In programming courses (e.g. CP143), it is often amazing to see what happens when a threshold concept "clicks in". A good example is the concept of pointers. I quote from (Boustedt et al., 2007), where a student says the following during an interview:
 
