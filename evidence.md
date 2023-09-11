@@ -12,6 +12,8 @@ University credentials to get access via sharepoint.
 
 [First Year Achievement Award 2019: Certificate of Recognition](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EdZyGmI-hyJCletLNB3IliQBaT1rdQJxR0tBSsD7PRY0vg?e=m8dvXu)
 
+[Stellenbosch University Scholarly Teacher Award 2022]()
+
 [Student letter](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EYsjuCP5Im5GuH1BMwQgfwsB69Y7SdPlCyddNBGW6skK5g?e=IaAubN)
 
 [Student testimonial](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EZ2bv2ouNqNLkAwo2-WegkABJJ6o0osd8zHyX2o85_bRyQ?e=LcwLVy)
@@ -27,5 +29,7 @@ University credentials to get access via sharepoint.
 [SoTL 2022 abstract: Machine translation of engineering assessments](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EVXgMM8weSxCo5wKpiRDnOoBj_hobHAylt8lJr9aTic1Fg?e=CPa5aJ)
 
 [SoTL 2022 slides: Machine translation of engineering assessments](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EYmQfQnxcI1EkKo7BBpi4y8BmUm7AzZzRqw_pGtCh2xe0A?e=vlg7bf)
+
+[WEEF 2023: Using machine learning to understand assessment practices of capstone projects in engineering](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/Ees0jmh6R-pJiM0njVOJ_xMBDyD7Ln8VJe6-GcIbrJN-TQ?e=2BBTc0)
 
 [Synapse article: Teaching for the future](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EdkR9jwqFC9Atu70vMKs0GAB1ud2JC0Nqm0zhTpIFnxkyA?e=1plhct)
