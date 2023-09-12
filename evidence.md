@@ -12,7 +12,7 @@ University credentials to get access via sharepoint.
 
 [First Year Achievement Award 2019: Certificate of Recognition](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EdZyGmI-hyJCletLNB3IliQBaT1rdQJxR0tBSsD7PRY0vg?e=m8dvXu)
 
-[Stellenbosch University Scholarly Teacher Award 2022]()
+[Stellenbosch University Scholarly Teacher Award 2022](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/Ed01H92SASRKjCQoxGgQzQEB-nB6HaweTGWVbuxY0Zmf7w?e=SP65jl)
 
 [Student letter](https://stellenbosch-my.sharepoint.com/:b:/g/personal/kamperh_sun_ac_za/EYsjuCP5Im5GuH1BMwQgfwsB69Y7SdPlCyddNBGW6skK5g?e=IaAubN)
 
