@@ -8,13 +8,14 @@ order: 1
 
 <!-- # Teaching philosophy -->
 
-When I first developed my teaching portfolio in 2021, I emphasised the importance of threshold concepts (Meyer and Land, 2003; see [Knowledge]({{site.url}}/knowledge/)). While I still think these concepts are the core building blocks for curriculum development, I have realised that the more fundamental guiding principle in my teaching is a "humanising pedagogy of engagement" involving engagement with students, engagement with content, and engagement of students with content (Olszewska et al., 2021). This plays out concretely through my three teaching goals.
+When I first developed my teaching portfolio in 2021, I emphasised the importance of threshold concepts (Meyer and Land, 2003; see [Knowledge]({{site.url}}/knowledge/)). While I still think these concepts are the core building blocks for curriculum development, I have realised that the more fundamental guiding principle in my teaching is a "humanising pedagogy of engagement" involving engagement with students, engagement with content, and engagement of students with content (Olszewska et al., 2021). This plays out concretely through my four teaching goals.
 
 > When I teach, my goals are to:
 > 
 > 1. Get students excited so that they are motivated to engage with the subject matter.
 > 2. Give students the lay of the land, so that they have the bigger picture.
 > 3. Equip students to build up their own knowledge and skills, by showing them where to find and how to process the relevant resources.
+> 4. Treat each student as a person, a human being.
 
 These goals are based on (Case, 2019) and (Brunton, 2020). I engage with students to create excitement for the work. I engage with the content myself, by being an expert researcher in my field, enabling me to distil the bigger picture. The ultimate goal is to get students to engage with the content themselves.
 
